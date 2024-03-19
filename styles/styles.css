@@ -168,9 +168,9 @@ input[type=checkbox]:checked + .item .accordion-content {
 }
 
 .accordion-content {
-  width: auto;s
-  margin: 0 auto;
-  padding: 0.5vw;
+  width: 100%;
+  margin: 1vw;
+  padding: 1vw;
   line-height: 0.7;
   color: #090959;
   border: 1px solid;
