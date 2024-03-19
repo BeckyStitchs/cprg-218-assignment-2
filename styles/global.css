@@ -1,0 +1,30 @@
+/* Sections */
+.container {
+  margin: 3rem auto;
+  max-width: 100rem;
+  padding: 3rem 1.5rem;
+  position: relative;
+}
+
+/* Header Section */
+.navigator-container {
+  background-color: #FFFAF4;
+  height: 7vw;
+}
+
+/* Hero Section */
+.hero-container {
+  color: #fff;
+  margin-bottom: -5vw;
+}
+
+/* Content Section */
+.content-container{
+  margin-bottom: 3vw;
+}
+
+/* Card Section */
+.card-container {
+  margin: -3vw 0 7vw 0;
+  position: relative;
+}
